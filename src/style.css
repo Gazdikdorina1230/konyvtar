@@ -1,0 +1,23 @@
+/*
+* File: style.css
+* Author: Gazdik Dorina
+* Copyright: 2024, Gazdik Dorina
+* Group: Szoft I-1-N
+* Date: 2024-02-06
+* Github: https://github.com/gazdikdorina/
+* Licenc: GNU GPL
+*/
+
+.container {
+    margin: 5%
+}
+
+
+.table_001 {
+    border-collapse: collapse;
+   }
+
+.table_001, td, th {
+    border: 1px solid black;
+    padding: 10px;
+}
